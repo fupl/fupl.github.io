@@ -1,2 +1,3 @@
 # fupl.github.io
-fupl website 
+
+Simple meal planning - Never say "not that again!" again
