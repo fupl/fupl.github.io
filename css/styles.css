@@ -1,0 +1,15 @@
+section.title {
+    background: #ff6b6b;
+}
+
+section.title h1 {
+    font-family: 'Dosis', sans-serif;
+}
+
+section.title p {
+    font-family: 'Righteous', sans-serif;
+}
+
+section.tagline {
+    background: #4ecdc4;
+}
