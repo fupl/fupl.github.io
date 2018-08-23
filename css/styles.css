@@ -5,12 +5,23 @@ section.title {
 
 section.title h1 {
     font-family: 'Dosis', sans-serif;
+    font-size: 10em;
 }
 
 section.title p {
-    font-family: 'Righteous', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.5em;
+    text-transform:uppercase;
 }
 
 section.tagline {
     background: #4ecdc4;
+    font-family: 'Caveat', sans-serif;
+    padding: 30px;
+    font-size: 4em;
+}
+
+section.family {
+    padding: 30px;
+    font-size: 2em;
 }
