@@ -1,6 +1,6 @@
 section.title {
     background: #ff6b6b;
-    padding: 4em;
+    padding: 2em;
 }
 
 section.title h1 {
@@ -17,7 +17,7 @@ section.title p {
 section.tagline {
     background: #4ecdc4;
     font-family: 'Caveat', sans-serif;
-    padding: 30px;
+    padding: 20px;
     font-size: 4em;
 }
 
